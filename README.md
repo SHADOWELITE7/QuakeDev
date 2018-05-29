@@ -1,2 +1,2 @@
 # QuakeDev
-my Quake maps folder using the TrenchBroom
+my Quake maps folder using the TrenchBroom level editor
